@@ -1,0 +1,30 @@
+site_name: Coolify for Mere Mortals
+site_description: Your own Heroku on a server you control. Installing Coolify, deploying applications from Git, adding one-click services and databases, wiring up domains with automatic HTTPS, and the honest cost of being your own platform team.
+site_url: https://paulsullivan33-dev.github.io/coolify-for-mere-mortals/
+copyright: 'Part of <a href="https://paulsullivan33-dev.github.io/mere-mortals/">For Mere Mortals</a> · Text CC BY 4.0, code MIT'
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Coolify Is: what-coolify-is.md
+  - The Moving Parts: the-moving-parts.md
+  - Before You Install: before-you-install.md
+  - Installing Coolify: installing-coolify.md
+  - First Login and the Dashboard: first-login-and-the-dashboard.md
+  - Servers — This Machine and Others: servers.md
+  - Projects and Environments: projects-and-environments.md
+  - Deploying Your First Application: deploying-your-first-application.md
+  - Build Packs: build-packs.md
+  - One-Click Services and Databases: one-click-services-and-databases.md
+  - Domains and Automatic HTTPS: domains-and-automatic-https.md
+  - Environment Variables and Secrets: environment-variables-and-secrets.md
+  - Backups, Updates and Staying Safe: backups-updates-and-staying-safe.md
+  - The Neighbours: the-neighbours.md
+  - Limits: limits.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
